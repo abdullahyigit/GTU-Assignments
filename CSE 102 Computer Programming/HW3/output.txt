@@ -1,0 +1,3 @@
+Xanthos (8,9) Horizontal
+Patara (3,6) Vertical
+Myra (2,22) Horizontal
